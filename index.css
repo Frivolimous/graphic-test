@@ -1,0 +1,12 @@
+body {
+    /* display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+
+.fixed-image {
+    position: fixed;
+}
